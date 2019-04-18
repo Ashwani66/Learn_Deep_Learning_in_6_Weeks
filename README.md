@@ -47,3 +47,7 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/) 
 - [ ] Build a Deep Q Network using Tensorflow
 
+NLP with DL:
+
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
